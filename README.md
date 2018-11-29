@@ -1,4 +1,4 @@
-## Server NodeJS to interact with MailChimp
+## NodeJS App to interact with MailChimp API
 
 # Run the Server
 $ npm start

@@ -1,5 +1,8 @@
-## NodeJS App to interact with MailChimp API
+## This is a NodeJS application to interact with the MailChimp API
 
-# Run the Server
+# To run the app
 $ npm start
+
+or
+
 $ nodemon
